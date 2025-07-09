@@ -6,13 +6,11 @@ This project is a sentiment analysis system that classifies movie reviews as **p
 
 ## 👨‍💻 Team Members
 
-| Name                    | Student ID     |
-|-------------------------|----------------|
-| Shady Wafik Heshmat     | 200026518      |
-| Adham Eloraby           | 200029570      |
-| Mostafa Farag           | 200034359      |
-| Yousef Mohamed Ali      | 200033377      |
-| Yousef Mohamed Salama   | 200033523      |
+| Shady Wafik Heshmat
+| Adham Eloraby
+| Mostafa Farag
+| Yousef Mohamed Ali      
+| Yousef Mohamed Salama   
 
 ---
 
