@@ -1,16 +1,6 @@
-# 📊 Sentiment Analysis Using NLP (AI341 Project)
+# 📊 Sentiment Analysis Using NLP
 
 This project is a sentiment analysis system that classifies movie reviews as **positive** or **negative** using **Natural Language Processing (NLP)** and **Deep Learning (LSTM)**. It was developed as part of the AI341 course at university.
-
----
-
-## 👨‍💻 Team Members
-
-| Shady Wafik Heshmat
-| Adham Eloraby
-| Mostafa Farag
-| Yousef Mohamed Ali      
-| Yousef Mohamed Salama   
 
 ---
 
